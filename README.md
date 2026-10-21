@@ -13,3 +13,4 @@ Run tests with `npm test`.
 
 ## Contributing
 Open a pull request against main.
+Maintained with LaneSync.
